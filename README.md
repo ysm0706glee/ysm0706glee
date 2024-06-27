@@ -3,17 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ysm0706glee" alt="ysm0706glee" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio](https://portfolio-eta-seven-56.vercel.app/)
-
-- 🌱 I’m currently learning **Next.js and TypeScript.**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-eta-seven-56.vercel.app/](https://portfolio-eta-seven-56.vercel.app/)
+- 👨‍💻 All of my projects are available at ([portfolio](https://portfolio2-alpha-azure.vercel.app/en))
 
 - 📫 How to reach me **ysm0706glee@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1Kz46AFE69qcvH1Pjf4b96d3V_5Z94NOvPJjKKI_mVKs/edit?usp=sharing](https://docs.google.com/document/d/1Kz46AFE69qcvH1Pjf4b96d3V_5Z94NOvPJjKKI_mVKs/edit?usp=sharing)
 
-- ⚡ Fun fact **If I could only eat one type of food for the rest of my life, it would be paella 🥘**
+- ⚡ Fun fact **If I could only eat one type of food for the rest of my life, it would be sushi 🍣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
